@@ -30,7 +30,7 @@
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [ih6297191@gmail.com](mailto:ih6297191@gmail.com) |
+| 📧 **Email** | [25-62976-2@student.aiub.edu](mailto:ih6297191@gmail.com) |
 | 📱 **Phone** | +880 1704946182 |
 | 📘 **Facebook** | [facebook.com/your.profile](https://facebook.com/your.profile) |
 | 📸 **Instagram** | [@your.username](https://instagram.com/your.username) |
