@@ -32,7 +32,7 @@
 |----------|------|
 | 📧 **Email** | [25-62976-2@student.aiub.edu](mailto:ih6297191@gmail.com) |
 | 📱 **Phone** | +880 1704946182 |
-| 📘 **Facebook** | [facebook.com/your.profile](https://facebook.com/your.profile) |
+| 📘 **Facebook** | [facebook.com/your.profile](https://facebook.com/@ismailhossain.ismailhossain.754570) |
 | 📸 **Instagram** | [@your.username](https://instagram.com/smiles_ssh) |
 | 💼 **LinkedIn** | [linkedin.com/in/your.profile](https://linkedin.com/in/your.profile) |
 | 🐙 **GitHub** | [github.com/your.username](https://github.com/your.username) |
