@@ -32,10 +32,10 @@
 |----------|------|
 | 📧 **Email** | [25-62976-2@student.aiub.edu](mailto:ih6297191@gmail.com) |
 | 📱 **Phone** | +880 1704946182 |
-| 📘 **Facebook** | [Ismail Siddiquee](https://facebook.com/@ismailhossain.ismailhossain.754570) |
-| 📸 **Instagram** | [ismailsiddiquee](https://instagram.com/smiles_ssh) |
-| 💼 **LinkedIn** | [linkedin.com/in/your.profile](https://linkedin.com/in/your.profile) |
-| 🐙 **GitHub** | [github.com/your.username](https://github.com/your.username) |
+| 📘 **Facebook** | [facebook.Ismail Siddiquee](https://facebook.com/@ismailhossain.ismailhossain.754570) |
+| 📸 **Instagram** | [insta.ismailsiddiquee](https://instagram.com/smiles_ssh) |
+| 💼 **LinkedIn** | [linkedin.com/in/your.profile](https://linkedin.com/in/https://www.linkedin.com/in/ismail-siddiquee-93b354407?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| 🐙 **GitHub** | [github.com/your.username](https://github.com/ih6297191-sudo) |
 
 ## 🛠️ Tools & Technologies
 
